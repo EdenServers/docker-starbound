@@ -15,4 +15,4 @@ cd /server/steamcmd && ./steamcmd.sh \
                  +app_update 211820 validate \
                  +quit
 
-cd /server/starbound/linux64 && ./starbound_server
+cd /server/starbound/linux && ./starbound_server
