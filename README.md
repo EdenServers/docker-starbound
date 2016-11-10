@@ -16,6 +16,10 @@ It also includes an SCP server.
 Our images are built to specifically run for our services. You can run it directly with Docker though.
 
 ---
+### 1.1.0 (2016-11-10)
+
+* Linux server path fixed (thanks @enpel)
+
 ### 1.0.0 (2015-08-27)
 
 This initial version contains:
